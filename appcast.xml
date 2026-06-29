@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Doers Updates</title>
+    <link>https://doers.app</link>
+    <language>en</language>
+    <item>
+      <title>Version 0.1.0</title>
+      <sparkle:version>98</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+      <pubDate>Mon, 29 Jun 2026 17:35:51 +0200</pubDate>
+      <enclosure
+        url="https://github.com/doersapp/doers-releases/releases/download/v0.1.0/Doers-0.1.0.dmg"
+        sparkle:edSignature="aKXVGZB7l1c8JUZmqeM0WWGvHE8ug39168bQqXRLi8lObAK1MPJW51j/8hNU5ltfz5RIpc7SuqZrjUulFwDJDg==" length="76615023"
+        type="application/octet-stream" />
+    </item>
+  </channel>
+</rss>
